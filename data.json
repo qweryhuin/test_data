@@ -1,0 +1,59 @@
+{
+  "admin_info": {
+    "name": "暗黒",
+    "email": "qwertyhuin0@gmail.com",
+    "phone": "09767241413",
+    "telegram_bot_token": "",
+    "telegram_chat_id": ""
+  },
+  "accountant_data_info": {
+    "customers": [
+      {
+        "id": "",
+        "name": "",
+        "phone": "",
+        "created_at": "",
+        "updated_at": ""
+      }
+    ],
+    "merchants": [
+      {
+        "id": "",
+        "name": "",
+        "phone": "",
+        "created_at": "",
+        "updated_at": ""
+      }
+    ],
+    "orders": [
+      {
+        "id": "",
+        "customer_id": "",
+        "order_info": {
+          "date": "",
+          "total_item": "",
+          "price_per_item": "",
+          "total_price": "",
+          "status": true
+        },
+        "created_at": "",
+        "updated_at": ""
+      }
+    ],
+    "transactions": [
+      {
+        "id": "",
+        "order_id": "",
+        "merchant_id": "",
+        "customer_id": "",
+        "transaction_info": {
+          "date": "",
+          "amount": "",
+          "status": true
+        },
+        "created_at": "",
+        "updated_at": ""
+      }
+    ]
+  }
+}
